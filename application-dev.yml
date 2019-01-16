@@ -1,20 +1,4 @@
-
-server:
-  port: 8080
-
-spring:
-  application:
-    name: configer_server
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/1253398412/configer_server.git
-          username: 1253398412@qq.com
-          password: 159827qqwwa
-
-
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8761/eureka/
+config:this is dev!
+      
+      
+      
