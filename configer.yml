@@ -3,3 +3,6 @@ spring
     url: 127.0.0.1:3306/ddsys
     username: root
     password: root
+
+profiles : dev
+    
