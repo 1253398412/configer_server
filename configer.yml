@@ -1,5 +1,5 @@
 spring
-    datasource:
-      url: 127.0.0.1:3306/ddsys
-      username: root
-      password: root
+  datasource:
+    url: 127.0.0.1:3306/ddsys
+    username: root
+    password: root
